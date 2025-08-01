@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58b4cbc9b65092944b1a471417363bf0
+timeCreated: 1529317450
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95532
+  packageName: Free Voxel Girl
+  packageVersion: 1.40
+  assetPath: Assets/FreeVoxelGirl/Models/Materials/KadukiRedHair.mat
+  uploadId: 278437

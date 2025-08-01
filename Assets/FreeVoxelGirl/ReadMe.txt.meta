@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1da39770fb586ff49ae259d6a8d9e67f
+timeCreated: 1507000481
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95532
+  packageName: Free Voxel Girl
+  packageVersion: 1.40
+  assetPath: Assets/FreeVoxelGirl/ReadMe.txt
+  uploadId: 278437

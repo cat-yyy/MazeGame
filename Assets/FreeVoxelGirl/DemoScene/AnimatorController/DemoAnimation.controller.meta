@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b869c1b467e58234b894b1e2f94fa036
+timeCreated: 1501840730
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95532
+  packageName: Free Voxel Girl
+  packageVersion: 1.40
+  assetPath: Assets/FreeVoxelGirl/DemoScene/AnimatorController/DemoAnimation.controller
+  uploadId: 278437

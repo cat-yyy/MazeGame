@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6758b689e0795b6418e34fa2b550ac4e
+timeCreated: 1502955521
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95532
+  packageName: Free Voxel Girl
+  packageVersion: 1.40
+  assetPath: Assets/FreeVoxelGirl/Models/Materials/FreeVoxelGirlBlackhair.mat
+  uploadId: 278437

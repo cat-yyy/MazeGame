@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7e127ad9ed1a1c42bdf62e1681316cb
+timeCreated: 1529316778
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95532
+  packageName: Free Voxel Girl
+  packageVersion: 1.40
+  assetPath: Assets/FreeVoxelGirl/Models/Materials/Kaduki.mat
+  uploadId: 278437
